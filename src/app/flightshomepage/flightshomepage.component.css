@@ -1,6 +1,7 @@
 .buttons button{
     padding: 5px;
     margin: 5px;
+    background-color: lightgreen;
 }
 .buttons{
     width: 70%;
